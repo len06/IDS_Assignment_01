@@ -1,0 +1,13 @@
+[project]
+name = "ids26-a1"
+version = "0.1.0"
+description = "Small environment to run a notebook for IDS26 Assignment Part 1"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "pandas>=3.0.6",
+    "scikit-learn>=1.9.1",
+    "seaborn>=0.13.2",
+]

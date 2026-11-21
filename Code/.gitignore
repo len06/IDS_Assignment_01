@@ -221,4 +221,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-.tmp/*
+
+# Temporary directories
+.tmp/
+tmp/
